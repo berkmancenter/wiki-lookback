@@ -10,6 +10,10 @@ Lookback is a MediaWiki Gadget used to look at a wiki the way it was at any give
 
 Lookback is the sister project to UTurn which is used to revert the wiki to that point in time.
 
+## Reverting
+
+If you would like to permanently revert the wiki, please consider using [UTurn](https://github.com/berkmancenter/wiki-uturn).
+
 ## Implementation details
 
 Lookback is implemented as a MediaWiki Gadget. It consists of 1 javascript file.
